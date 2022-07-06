@@ -1,0 +1,28 @@
+{
+  "name": "@ocean28799/react-native-lottie-button",
+  "version": "1.0.0",
+  "description": "Animated when press button using lottie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocean28799/react-native-lottie-button.git"
+  },
+  "keywords": [
+    "animated-button",
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "lottie",
+    "animated"
+  ],
+  "author": "Tran Anh Duc <ocean28799>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocean28799/react-native-lottie-button/issues"
+  },
+  "homepage": "https://github.com/ocean28799/react-native-lottie-button#readme"
+}
